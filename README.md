@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [OYOLA](https://oyola.in)
 
+[![@nanisamireddy's Holopin board](https://holopin.me/nanisamireddy)](https://holopin.io/@nanisamireddy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nani_samireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nani_samireddy" height="30" width="40" /></a>
